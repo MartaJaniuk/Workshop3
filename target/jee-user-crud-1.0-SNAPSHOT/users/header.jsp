@@ -54,8 +54,6 @@
         <span>Dashboard</span></a>
     </li>
 
-
-
     <!-- Sidebar Toggler (Sidebar) -->
     <div class="text-center d-none d-md-inline">
       <button class="rounded-circle border-0" id="sidebarToggle"></button>
@@ -65,17 +63,14 @@
   <!-- End of Sidebar -->
 
 
-
   <!-- Content Wrapper -->
   <div id="content-wrapper" class="d-flex flex-column">
-
 
     <!-- Main Content -->
     <div id="content">
 
       <!-- Topbar -->
       <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
-
 
       </nav>
       <!-- End of Topbar -->
